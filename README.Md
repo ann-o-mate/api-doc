@@ -1,6 +1,6 @@
 # Ann-o-mate API
 
-The endpoint for the ann-o-mate API is https://api.audioblast.org/annotations/. The API is used to provide a graphical frontend to the ann-o-mate project (https://audioblast.org/annotations), integration with R via the [warbleR](https://cran.r-project.org/package=warbleR) package, and is open for all developers to make use of. We would welcome notficication of notable implementations via ann-o-mate@googlegroups.com. 
+The endpoint for the ann-o-mate API is https://api.audioblast.org/annotations/. The API is used to provide a graphical frontend to the ann-o-mate project (https://audioblast.org/annotations), integration with R via the [warbleR](https://cran.r-project.org/package=warbleR) package, and is open for all developers to make use of. We would welcome notification of notable implementations via ann-o-mate@googlegroups.com. 
 
 The return is a JSON formatted object. No authentication is required.
 
